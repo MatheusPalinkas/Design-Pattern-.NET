@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/STRATEGY.csproj": {}
+  },
+  "projects": {
+    "/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/STRATEGY.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/STRATEGY.csproj",
+        "projectName": "STRATEGY",
+        "projectPath": "/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/STRATEGY.csproj",
+        "packagesPath": "/home/palinkas/.nuget/packages/",
+        "outputPath": "/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/palinkas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
