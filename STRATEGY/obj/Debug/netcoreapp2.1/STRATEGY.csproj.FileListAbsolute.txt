@@ -1,0 +1,11 @@
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/obj/Debug/netcoreapp2.1/STRATEGY.csprojAssemblyReference.cache
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/obj/Debug/netcoreapp2.1/STRATEGY.csproj.CoreCompileInputs.cache
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/obj/Debug/netcoreapp2.1/STRATEGY.AssemblyInfoInputs.cache
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/obj/Debug/netcoreapp2.1/STRATEGY.AssemblyInfo.cs
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/bin/Debug/netcoreapp2.1/STRATEGY.deps.json
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/bin/Debug/netcoreapp2.1/STRATEGY.runtimeconfig.json
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/bin/Debug/netcoreapp2.1/STRATEGY.runtimeconfig.dev.json
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/bin/Debug/netcoreapp2.1/STRATEGY.dll
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/bin/Debug/netcoreapp2.1/STRATEGY.pdb
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/obj/Debug/netcoreapp2.1/STRATEGY.dll
+/home/palinkas/Documentos/GitHub/alura/Design-Pattern-.NET/STRATEGY/obj/Debug/netcoreapp2.1/STRATEGY.pdb
